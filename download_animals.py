@@ -19,7 +19,6 @@ iconList = ('Alligator', 'Anteater', 'Armadillo', 'Auroch', 'Axolotl',
             'Wolf', 'Wolverine', 'Wombat',
 
             # Thanks to Lumitrap
-            'Bear', 'Dog', 'Lion',
             'Blobfish', 'Dumbo Octopus', 'Goose', 'Hamster', 'Jackalope', 'Kiwi', 'Quokka', 'Unicorn'
             )
 
