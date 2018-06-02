@@ -32,7 +32,7 @@ html_icon_list = ''
 
 for index, icon in enumerate(iconList):
     filename = icon.replace(' ','').lower()
-    icon_path = dirname + '/' + icon + '.png'
+    icon_path = dirname + '/' + icon.replace(' ', '-').lower() + '.png'
     url = 'https://ssl.gstatic.com/docs/common/profile/' + filename + '_lg.png'
     print('#%s\tfetching %s' % (index, url))
     try:
