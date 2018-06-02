@@ -16,7 +16,12 @@ iconList = ('Alligator', 'Anteater', 'Armadillo', 'Auroch', 'Axolotl',
             'Nyan Cat', 'Orangutan', 'Otter', 'Panda', 'Penguin', 'Platypus',
             'Pumpkin', 'Python', 'Quagga', 'Rabbit', 'Raccoon', 'Rhino',
             'Sheep', 'Shrew', 'Skunk', 'Squirrel', 'Tiger', 'Turtle', 'Walrus',
-            'Wolf', 'Wolverine', 'Wombat')
+            'Wolf', 'Wolverine', 'Wombat',
+
+            # Thanks to Lumitrap
+            'Bear', 'Dog', 'Lion',
+            'Blobfish', 'Dumbo Octopus', 'Goose', 'Hamster', 'Jackalope', 'Kiwi', 'Quokka', 'Unicorn'
+            )
 
 dirname = 'icons'
 if os.path.exists(dirname):
